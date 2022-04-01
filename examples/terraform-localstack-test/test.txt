@@ -1,0 +1,1 @@
+Some content to go into a file inside localstack's S3 implementation
